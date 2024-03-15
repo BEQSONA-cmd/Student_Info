@@ -1,5 +1,3 @@
-cd "$HOME" || exit
-git clone https://github.com/BEQSONA-cmd/Cabinette.git && cd Cabinette && ./install
 touch user.txt
 touch userinfo.txt
 c++ information.cpp
